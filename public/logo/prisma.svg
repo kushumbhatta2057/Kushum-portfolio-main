@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Prisma outline logo">
+  <!-- Transparent background; outline-only triangular prism to match screenshot -->
+  <g fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-linecap="round">
+    <!-- outer triangle (hollow) -->
+    <path d="M64 14 L116 46 L64 106 L12 46 Z" stroke-width="6" />
+    <!-- fold/divider stroke to mimic the prism cut -->
+    <path d="M64 14 L88 56 L64 88" stroke-width="5" />
+    <!-- subtle inner accent (thin) to match outlined style -->
+    <path d="M64 88 L40 56 L64 14" stroke-width="2.5" opacity="0.9" />
+  </g>
+</svg>
