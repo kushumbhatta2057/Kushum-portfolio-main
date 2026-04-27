@@ -77,19 +77,19 @@ const AboutMe = () => {
                         </p>
 
                         <p className="text-lg md:text-xl text-muted-foreground slide-up-and-fade leading-relaxed max-w-3xl">
-                            I&apos;m a UI/UX Designer and Frontend Developer with a background in Computer Engineering,
+                            I&apos;m a UI/UX Designer and Frontend Developer with a background in 
                             <br />
-                            passionate about solving problems through clean, user-focused design.
+                            Computer Engineering, passionate about solving problems through 
                             <br />
-                            I enjoy turning ideas into interfaces that feel intuitive,
+                            clean, user-focused design.I enjoy turning ideas into interfaces that 
                             <br />
-                            visually balanced, and responsive across devices.
+                            feel intuitive,visually balanced, and responsive across devices.
                             <br />
                             My approach combines design thinking with practical frontend skills
                             <br />
-                            to build experiences that are functional,
+                            to build experiences that are functional,polished, and  easy  for people 
                             <br />
-                            polished, and easy for people to navigate.
+                            to navigate.
                             <br />
                             <br />
                             I focus on improving usability through thoughtful layouts,
